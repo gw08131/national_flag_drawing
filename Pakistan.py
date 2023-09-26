@@ -7,7 +7,7 @@ speed(10)
 setup(800, 500)
 bgcolor("#01411C")
 
-penup() #초승달
+penup() 
 goto(0, -100)
 pendown()
 color("#FFFFFF")
